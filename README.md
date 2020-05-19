@@ -3,7 +3,7 @@
 ## Edge Lightr ##
 Via this substratum theme you can change the edge light notifications to different colors or textures.
 
-Supported Device/OS: OnePlus 7 Pro - Oxygen OS 10
+*Supported Device/OS: OnePlus 7 Pro - Oxygen OS 10*
 
 **How to apply overlays:**
 1. Select the overlay
